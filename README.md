@@ -148,9 +148,7 @@ I believe the best way to grow as a developer is by continuously building projec
   <a href="https://github.com/Mxrkinnit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/mxrkinnit">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  
   <a href="https://twitter.com/mxrkinnit">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
